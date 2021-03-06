@@ -1,0 +1,12 @@
+.idea/*
+target/
+*.iml
+.classpath
+.project
+.settings/
+logs/
+*.log
+!.idea/runConfigurations
+/deploy-dev.sh
+.flattened-pom.xml
+/deploy-uat.sh
