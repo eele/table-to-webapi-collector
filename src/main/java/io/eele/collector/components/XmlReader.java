@@ -14,6 +14,9 @@ import java.util.regex.Matcher;
 import java.util.regex.Pattern;
 import java.util.stream.Collectors;
 
+/**
+ * 根据表名解析 Mybatis Mapper XML 文件，获取 mapper 方法信息
+ */
 public class XmlReader {
 
 //    public static void main(String[] args) {
